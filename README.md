@@ -1,6 +1,8 @@
 # LowPolyTerrain
 Low Poly Terrain in Game Maker Studio 2
 
+Maintained by: SweetCelestia
+
 All main settings stored in macros script
 
 On my PC it runs about 1500-2000 fps_real and smooth 60 fps
